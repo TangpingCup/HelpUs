@@ -7,8 +7,8 @@
 | --- | --- | --- |
 | 金牌赞助商 | 连续两年赛事平台广告位（banner）以及专题题目 | 150RMB |
 | 银牌赞助商 | 一年赛事平台广告位（banner） | 70RMB |
-| 铜牌赞助商 | 一年赛事平台主页Logo/Avatar+名字+链接悬挂 | 40RMB |
-| 普通赞助商 | 一年赛后GitHub仓库README Logo/Avatar+名字悬挂 | 15RMB |
+| 铜牌赞助商 | 一年赛事平台主页Logo/Avatar+Name+Link 公示 | 40RMB |
+| 普通赞助商 | 一年赛后GitHub仓库README Logo/Avatar+Name 公示 | 15RMB |
 
 注：每年赞助金额可能变化，以最新为准
 
